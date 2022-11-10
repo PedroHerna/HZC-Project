@@ -8,3 +8,8 @@ botaoMenu.addEventListener('click', ()=>{
 function ativa(){
     document.querySelector('.menu-lateral__link').classList.toggle('menu-lateral__link--ativo');
 }
+
+const menu0 = document.querySelector('.header')
+menu0.addEventListener('scroll',()=>{
+    menu0.classList.toggle('header--fixo')
+})
