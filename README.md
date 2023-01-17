@@ -1,8 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="![image](https://user-images.githubusercontent.com/90341044/212789209-3c5c0fff-a5ff-4820-aa13-cbf8912f35fa.png)
-" alt="Intro" width="200">
+  <img src="https://user-images.githubusercontent.com/90341044/212789209-3c5c0fff-a5ff-4820-aa13-cbf8912f35fa.png" alt="Intro" width="200">
   <br>
   Login Page
   <br>
