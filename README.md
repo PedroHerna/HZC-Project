@@ -1,103 +1,36 @@
-# Guia de estilos
 
-Toda a estilização que será usada no projeto dentro do figma.
+<h1 align="center">
+  <br>
+  <img src="![image](https://user-images.githubusercontent.com/90341044/212789209-3c5c0fff-a5ff-4820-aa13-cbf8912f35fa.png)
+" alt="Intro" width="200">
+  <br>
+  Login Page
+  <br>
+</h1>
 
-[Link do projeto no figma](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358)
+<h4 align="center">Projeto de Login Page.</h4>
 
-## Fonte
 
-```html
-Open Sans:
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap">
-```
+## Imagem do projeto finalizado 🖥️
+![image](https://user-images.githubusercontent.com/90341044/190323083-03687f8b-b904-45f5-b4b4-1f7116ca89e4.png)
 
-## Cores
 
-corpo: `#1D232A`
+## Ideia do projeto 💡
+A criação do projeto foi idealizada pelo próprio desenvolvedor.
 
-cabeçalho: `#1D232A`
 
-cabeçalho mobile: `#15191C`
+> **Note**
+> Linguagens utilizadas: HTML, CSS
 
-menu lateral: `#15191C`
 
-cartão: `#2C343A`
 
-fonte: `#FFFFFF`
+## Creditos
 
-fonte alternativa: `#95999C`
+Esse projeto foi desenvolvido por:
 
-links: `#0480DC`
+- [LinkedIn](https://www.linkedin.com/in/pedroherna/)
+- [GitHub](https://github.com/PedroHerna)
 
-botão: `#0480DC`
+## Licença
 
-sombras: `0px 4px 4px rgba(0, 0, 0, 0.16)`
-
-## Ícones
-
-Estão dentro do arquivo de fonte `icones.ttf`. Para usar, primeiro importe a fonte no projeto usando `@font-face` e depois utilize os códigos abaixo para exibir o ícone.
-
-```css
-@font-face {
-    font-family: 'icones';
-    src: url(../font/icones.ttf);
-}
-```
-
-> Cuidado com a localização do arquivo `icones.ttf`
-
-Camisas = `\e900`
-
-Carrinho = `\e901`
-
-Inicio = `\e902`
-
-Integrantes = `\e903`
-
-Menu = `\e904`
-
-Moeda = `\e905`
-
-Notificação = `\e906`
-
-Pico = `\e908`
-
-Picos = `\e909`
-
-Pinturas = `\e90a`
-
-Play = `\e90b`
-
-Relogio = `\e90c`
-
-Seta-baixo = `\e90d`
-
-Videos = `\e90e`
-
-Visualizacao = `\e90f`
-
-## Espaçamentos
-
-Espaço interno botão: `8px`
-
-Espaço entre elementos do botão: `8px`
-
-Espaço entre elementos: `16px/8px`
-
-Espaçamento interno do corpo: `16px`
-
-Espaçamento entre o título do cartão de recentes e seus itens: `24px`
-
-## Tamanhos
-
-Tamanho do dispositivo mobile: `360px`
-
-Tamanho do dispositivo desktop: `1440px`
-
-Largura máxima do conteúdo principal: `1120px`
-
-Largura máxima de um cartão desktop: `256px`
-
-Altura mínima de um cartão: `320px`
+MIT
